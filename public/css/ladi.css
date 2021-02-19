@@ -357,7 +357,7 @@ body {
     right: 0;
     left: 0;
     margin: auto;
-    background: url(public/image/trangchu/ladi-icon.svg) rgba(255, 255, 255, .2) no-repeat;
+    background: url(../image/trangchu/ladi-icon.svg) rgba(255, 255, 255, .2) no-repeat;
     background-position: 4px;
     cursor: pointer;
     z-index: 90000040
@@ -416,7 +416,7 @@ body {
     width: 30px;
     height: 36px;
     top: calc(50% - 18px);
-    background: url(public/image/trangchu/ladi-icon.svg) rgba(255, 255, 255, .2) no-repeat;
+    background: url(../image/trangchu/ladi-icon.svg) rgba(255, 255, 255, .2) no-repeat;
     cursor: pointer;
     z-index: 90000040
 }
@@ -471,7 +471,7 @@ body {
     margin: auto;
     width: 60px;
     height: 60px;
-    background: url(public/image/trangchu/ladipage-play.svg) no-repeat center center;
+    background: url(../image/trangchu/ladipage-play.svg) no-repeat center center;
     background-size: contain;
     pointer-events: none;
     cursor: pointer
@@ -580,7 +580,7 @@ body {
     width: 30px;
     height: 36px;
     top: calc(50% - 18px);
-    background: url(public/image/trangchu/ladi-icon.svg) rgba(255, 255, 255, .2) no-repeat;
+    background: url(../image/trangchu/ladi-icon.svg) rgba(255, 255, 255, .2) no-repeat;
     cursor: pointer;
     z-index: 90000040
 }
@@ -597,7 +597,7 @@ body {
 
 .ladi-gallery .ladi-gallery-control .ladi-gallery-control-arrow {
     position: absolute;
-    background: url(public/image/trangchu/ladi-icon.svg) rgba(255, 255, 255, .2) no-repeat;
+    background: url(../image/trangchu/ladi-icon.svg) rgba(255, 255, 255, .2) no-repeat;
     cursor: pointer;
     z-index: 90000040
 }
@@ -712,7 +712,7 @@ body {
     margin: auto;
     width: 30px;
     height: 30px;
-    background: url(public/image/trangchu/ladipage-play.svg) no-repeat center center;
+    background: url(../image/trangchu/ladipage-play.svg) no-repeat center center;
     background-size: contain;
     pointer-events: none;
     cursor: pointer
@@ -812,7 +812,7 @@ body {
     transform: scale(.8);
     -webkit-transform: scale(.8);
     z-index: 9000000080;
-    background: url(public/image/trangchu/ladi-icon.svg) rgba(255, 255, 255, .2) no-repeat;
+    background: url(../image/trangchu/ladi-icon.svg) rgba(255, 255, 255, .2) no-repeat;
     background-position: -108px;
     cursor: pointer;
     display: none
@@ -945,7 +945,7 @@ body {
     width: 30px;
     height: 36px;
     top: calc(50% - 18px);
-    background: url(public/image/trangchu/ladi-icon.svg) rgba(255, 255, 255, .2) no-repeat;
+    background: url(../image/trangchu/ladi-icon.svg) rgba(255, 255, 255, .2) no-repeat;
     cursor: pointer;
     z-index: 90000040
 }
@@ -968,7 +968,7 @@ body {
     right: 0;
     left: 0;
     margin: auto;
-    background: url(public/image/trangchu/ladi-icon.svg) rgba(255, 255, 255, .2) no-repeat;
+    background: url(../image/trangchu/ladi-icon.svg) rgba(255, 255, 255, .2) no-repeat;
     background-position: 4px;
     cursor: pointer;
     z-index: 90000040
@@ -1568,7 +1568,7 @@ a:link {
     height: 30px;
     position: absolute;
     z-index: 9000000090;
-    background: url(public/image/trangchu/ladi-icon.svg) rgba(255, 255, 255, .2) no-repeat;
+    background: url(../image/trangchu/ladi-icon.svg) rgba(255, 255, 255, .2) no-repeat;
     background-position: -108px;
     transform: scale(.7);
     -webkit-transform: scale(.7);
